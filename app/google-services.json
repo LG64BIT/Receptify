@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435219513924",
+    "project_id": "receptify-42929",
+    "storage_bucket": "receptify-42929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435219513924:android:fa1587f9d66b4beca03211",
+        "android_client_info": {
+          "package_name": "app.shop.recptify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435219513924-hg4q90rk80nkq5gibdi5jtnk06let5kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXdITgf-UGsyaDGTIpQpGpU5u_qa2ibc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435219513924-hg4q90rk80nkq5gibdi5jtnk06let5kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
